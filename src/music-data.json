@@ -1,0 +1,165 @@
+[
+  {
+    "id": "0",
+    "title": "King Nothing",
+    "artist": "Metallica",
+    "album": "Load",
+    "year": 1996,
+    "isSoldOut": true,
+    "imageUrl": "http://i.scdn.co/image/5a06711d7fc48d5e0e3f9a3274ffed3f0af1bd91"
+  },
+  {
+    "id": "1",
+    "title": "La Vie En Rose",
+    "artist": "Édith Piaf",
+    "album": "La Vie En Rose",
+    "year": 1945,
+    "isSoldOut": true,
+    "imageUrl": "https://static.qobuz.com/images/covers/77/54/8028068105477_600.jpg"
+  },
+  {
+    "id": "2",
+    "title": "İnsan İnsan",
+    "artist": "Fazıl Say,Serenad Bağcan",
+    "album": "İlk Şarkılar",
+    "year": 2011,
+    "isSoldOut": false,
+    "imageUrl": "https://dunyalilar.org/wp-content/uploads/2018/04/faz%C4%B1l-say-1-e1524337019193.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Angelica",
+    "artist": "Anathema",
+    "album": "Eternity",
+    "year": 1996,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c62df3fa967ac4382b54147"
+  },
+  {
+    "id": "4",
+    "title": "Living in the Shadows",
+    "artist": "Matthew Perryman Jones",
+    "album": "(Single)",
+    "year": 2016,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313f1a15c18f40a991691f3d6"
+  },
+  {
+    "id": "5",
+    "title": "Lost On You",
+    "artist": "LP",
+    "album": "Lost On You",
+    "year": 2016,
+    "isSoldOut": false,
+    "imageUrl": "https://ecsmedia.pl/c/other-people-w-iext125407951.jpg"
+  },
+  {
+    "id": "6",
+    "title": "All Along the Watchtower",
+    "artist": "Jimi Hendrix",
+    "album": "Electric Ladyland",
+    "year": 1968,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292"
+  },
+  {
+    "id": "7",
+    "title": "Take Me to Church",
+    "artist": "Hozier",
+    "album": "Hozier",
+    "year": 2013,
+    "isSoldOut": false,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzlhZDdjNjctNDRiZS00NjI2LWJmOTQtODc4YmY3OWY2NWNjXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg"
+  },
+  {
+    "id": "8",
+    "title": "God Was Never On Your Side",
+    "artist": "Motörhead",
+    "album": "Kiss of Death",
+    "year": 2001,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5941e5e616db0fc4dcd089"
+  },
+  {
+    "id": "9",
+    "title": "Je Veux",
+    "artist": "Zaz",
+    "album": "Zaz",
+    "year": 2010,
+    "isSoldOut": true,
+    "imageUrl": "https://lastfm.freetls.fastly.net/i/u/ar0/f14b51d6f71447f8a36068b56e07ef3d.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Oyunbozan",
+    "artist": "Mor ve Ötesi",
+    "album": "Güneşi Beklerken",
+    "year": 2012,
+    "isSoldOut": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/7/71/G%C3%BCne%C5%9FiBeklerken.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Black",
+    "artist": "Kari Kimmel",
+    "album": "Black",
+    "year": 2015,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e0a2e01d6b19a9384cb6f1"
+  },
+  {
+    "id": "12",
+    "title": "Sozlerimi Geri Alamam",
+    "artist": "Bulutsuzluk Özlemi",
+    "album": "Uçtu Uçtu",
+    "year": 1990,
+    "isSoldOut": true,
+    "imageUrl": "https://data.opus3a.com/product_photo/9e/9e92819f94bbc1109d64d58d17f72d4f/LARGE/78862fb5d533b77eabbc6a4e0af627a9.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Freed From Desire",
+    "artist": "Gala",
+    "album": "Come into My Life",
+    "year": 1997,
+    "isSoldOut": false,
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/98/01/82980107-7c79-8fb2-7865-97ca60085f5a/cover.jpg/1200x1200bb.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Düldül",
+    "artist": "Mabel Matiz, Melike Şahin",
+    "album": "Fatih",
+    "year": 2023,
+    "isSoldOut": false,
+    "imageUrl": "https://lastfm.freetls.fastly.net/i/u/300x300/65ee978f82457decd617b228b2de90ee.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Herr Mannelig",
+    "artist": "Haggard",
+    "album": "Eppur Si Muove",
+    "year": 2004,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f326cac36eb70d0de16680d1"
+  },
+  {
+    "id": "16",
+    "title": "Moskau",
+    "artist": "Dschinghis Khan",
+    "album": "Genghis Khan",
+    "year": 1979,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387781996775435b9b6b75206"
+  },
+  {
+    "id": "17",
+    "title": "Madem",
+    "artist": "Dolu Kadehi Ters Tut",
+    "album": "Karanlık",
+    "year": 2019,
+    "isSoldOut": false,
+    "imageUrl": "https://i1.sndcdn.com/artworks-000515491257-6b7p0y-t500x500.jpg"
+  }
+  
+]
